@@ -1,0 +1,15 @@
+﻿  Camera.cpp
+  Mesh.cpp
+C:\Users\Rafal\source\repos\ProjektOpenGL\ProjektOpenGL\Mesh.cpp(61,53): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Rafal\source\repos\ProjektOpenGL\ProjektOpenGL\Mesh.cpp(62,65): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Rafal\source\repos\ProjektOpenGL\ProjektOpenGL\Mesh.cpp(111,53): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+C:\Users\Rafal\source\repos\ProjektOpenGL\ProjektOpenGL\Mesh.cpp(112,65): warning C4267: "argument": konwersja z "size_t" do "GLsizei", możliwa utrata danych
+  ProjektOpenGL.cpp
+  Texture.cpp
+  shaderClass.cpp
+  Trwa generowanie kodu
+  4 of 822 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ProjektOpenGL.vcxproj -> C:\Users\Rafal\source\repos\ProjektOpenGL\x64\Release\ProjektOpenGL.exe
